@@ -1,0 +1,41 @@
+.Button{
+  border: 1px solid #0000;
+  box-shadow: 0 2px 0 #00000014;
+  text-shadow: 0 -1px 0 #00000026;
+  color: #fff;
+  font-weight: 600;
+  transition: all .1s;
+  cursor: pointer;
+  font-size: medium;
+}
+
+.basic{
+  border-radius: 5px;
+}
+
+.small{
+  width: 70px;
+  height: 30px;
+}
+
+.medium{
+  width: 100px;
+  height: 35px;
+}
+
+.large{
+  width: 150px;
+  height: 40px;
+}
+
+.red{
+  background: #D93025;
+}
+
+.blue{
+  background: #14AAF5;
+}
+
+.green{
+  background: #2da44e;
+}
