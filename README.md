@@ -13,7 +13,7 @@ npm install ui_leg_v1
 
 ```jsx
 import React from 'react';
-import { Button } from 'ui-leg';
+import { Button } from 'ui_leg_v1';
 
 function App() {
   return (
